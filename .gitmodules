@@ -1,0 +1,3 @@
+[submodule "KernelLib"]
+	path = KernelLib
+	url = https://github.com/svensson84/KernelLib.git

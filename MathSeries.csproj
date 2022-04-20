@@ -6,11 +6,8 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject>MathSeries.Program</StartupObject>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Kernel\KernelLib.csproj" />
-  </ItemGroup>
 
   <ItemGroup>
     <Compile Update="FibonacciForm.cs">
